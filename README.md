@@ -1,2 +1,2 @@
-# myGitBlog
-yangfeng's git blog
+# yangfeng's git blog
+A start of git blog trial
