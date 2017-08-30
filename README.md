@@ -1,2 +1,2 @@
 # myGitBlog
-A personal git blog site, aimming for learning.
+A personal git blog site, aimming at learning.
