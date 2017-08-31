@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 博客走起
+title: 知晓
 email: Andrewuetyang@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   写博客，是学习的一种方式，通过写作，回顾知识，提炼精华，理清思绪。所以，我的博客跟随者这样的精神，诞生了。
