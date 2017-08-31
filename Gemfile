@@ -11,17 +11,13 @@ gem 'github-pages', group: :jekyll_plugins
 # Happy Jekylling!
 gem "jekyll", "3.5.1"
 
+gem "tzinfo-data"
 
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
-
-# If you have any plugins, put them here!`
-group :jekyll_plugins do
-   gem "jekyll-feed", "~> 0.6"
-end
-
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+# If you have any plugins, put them here!
+# group :jekyll_plugins do
+  # gem "jekyll-paginate"
+  # gem "jekyll-sitemap"
+  # gem "jekyll-gist"
+  # gem "jekyll-feed"
+  # gem "jemoji"
+# end
