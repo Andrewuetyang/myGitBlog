@@ -22,7 +22,6 @@ repository: "andrewuetyang/myGitBlog"
 url: https://andrewuetyang.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Andrewuet
 
-theme: minimal-mistakes-jekyll
 locale: "zh-CN"
 name: "杨峰"
 
