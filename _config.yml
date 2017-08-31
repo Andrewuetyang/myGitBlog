@@ -18,7 +18,7 @@ email: Andrewuetyang@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   写博客，是学习的一种方式，通过写作，回顾知识，提炼精华，理清思绪。所以，我的博客跟随者这样的精神，诞生了。
 baseurl: "/myGitBlog" # the subpath of your site, e.g. /blog
-repository: "mmistakes/minimal-mistakes"
+repository: "andrewuetyang/myGitBlog"
 url: https://andrewuetyang.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Andrewuet
 
